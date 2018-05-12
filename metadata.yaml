@@ -1,0 +1,28 @@
+_repo: The-Story-of-the-HillsA-Book-About-Mountains-for-General-Readers._43826
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43826-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hutchinson, H. N. (Henry Neville)
+    alias: Hutchinson, Henry Neville
+    birthdate: 1856
+    deathdate: 1927
+    gutenberg_agent_id: '41755'
+    url: http://www.gutenberg.org/2009/agents/41755
+description: ''
+gutenberg_issued: '2013-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43826'
+  lccn: '06003731'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mountains'
+- !lcc 'GB'
+title: 'The Story of the Hills: A Book About Mountains for General Readers.'
+url: http://www.gutenberg.org/ebooks/43826
